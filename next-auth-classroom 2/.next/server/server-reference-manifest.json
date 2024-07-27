@@ -1,0 +1,78 @@
+{
+  "node": {
+    "5a3d4dcb3765ef45a4ed5a5f15b22d451e50b8f5": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc"
+      }
+    },
+    "64428593690fdae627bcfd6d41d58db85cf75ff5": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc"
+      }
+    },
+    "970708878116ede325d06bfc1e4beec2c3bf5b3c": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc"
+      }
+    },
+    "daa5ee26bb009ea24f4eca4d5f0fee030631ecd8": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc"
+      }
+    },
+    "dc9eea660c18a212c547c6b595a05b86db993efa": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc"
+      }
+    },
+    "e8db40422bfcc03461465a4e49c54bc77b308f6d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fpicsartacademy%2FDesktop%2Fnext-auth-classroom%202%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogout%22%2C%22%24%24ACTION_1%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "nR2+E30ZOSHcuNy8S1S+zUrJQgo8MfdTkM4OUFd8Ols="
+}
